@@ -53,7 +53,7 @@ An applicant in this category is free to use any third party asset they wish. An
 	
 	What I'm looking for:
 		A good concept that plays well, and that has potential.
-		The demo should make me feel that with more development and production time, it could be a fun game that holds attention for longer time.
+		The demo should make me feel that with more dev and production time it could become a real game that plays for 4-8hrs.
 		The polish level doesn't need to be high, just "OK" is enough. As long as it doesn't look "bad", it's fine.
 		Try to aim for atleast 8 minutes engaging gameplay.
 
