@@ -88,7 +88,7 @@ You can think of it as a live trailer.
 
 - Then we will open your Unity project and you can explain how everything works.
 
-Please schedule the play-session atleast two days before the actual day.
+Please schedule the play-session atleast a day before the actual day.
 
 Please Do not add any sound effect or music to the game.
 
