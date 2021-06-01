@@ -42,7 +42,7 @@ For this test, I'm not just looking on how long the actual game takes to complet
 ### Choose only one of the two test available
 Each have their different rules and rating priorities.
 
-## Game Developer - Focus on Game Design and Level Design
+## Game Developer - Specialized on Game Design and Level Design
 A project in this category will be rated based on those priority:
 
 1) Fun factor: /10
@@ -57,7 +57,7 @@ An applicant in this category is free to use any third party asset they wish. An
 		The polish level doesn't need to be high, just "OK" is enough. As long as it doesn't look "bad", it's fine.
 		Try to aim for atleast 8 minutes engaging gameplay.
 
-## Game Developer - Focus on 3D asset creation and Polishing.
+## Game Developer - Specialized on 3D asset creation and Polishing.
 A project in this category will be rated based on those priority:
 
 1) Polish: /12
