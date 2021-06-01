@@ -90,7 +90,7 @@ You can think of it as a live trailer.
 
 Please schedule the play-session atleast a day before the actual day.
 
-Please Do not add any sound effect or music to the game.
+Please do not add any sound effect or music to the game.
 
 
 You must use the version 2020.3.6 of Unity.
@@ -99,4 +99,4 @@ To install it, you can visit this page [https://unity3d.com/unity/whats-new/2020
 
 Make sure you have Unity Hub installed beforehand.
 
-Good luck !
+Good luck and have fun!
