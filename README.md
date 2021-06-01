@@ -39,10 +39,10 @@ What would make a gamer want to play the game for an extended period of time?
 Are the mechanics deep and rewarding enough to practice and master? Are there things to explore, learn and discover?
 For this test, I'm not just looking on how long the actual game takes to complete, but also looking at what the game length **could** be if it were to be expended.
 		
-### Choose only one of the two challenges available
+### Choose only one of the two category of challenge you want to pass
 Each have their own rules and rating priorities.
 
-## Game Developer - Specialized on Game Design and Level Design
+## 1) Game Developer - Specialized on Game Design and Level Design
 A project in this category will be rated based on those priority:
 
 1) Fun factor: /10
@@ -57,7 +57,7 @@ An applicant in this category is free to use any third party asset they wish. An
 		The polish level doesn't need to be high, just "OK" is enough. As long as it doesn't look "bad", it's fine.
 		Try to aim for atleast 8 minutes engaging gameplay.
 
-## Game Developer - Specialized on 3D asset creation and Polishing.
+## 2) Game Developer - Specialized on 3D asset creation and Polishing.
 A project in this category will be rated based on those priority:
 
 1) Polish: /12
