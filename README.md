@@ -39,8 +39,8 @@ What would make a gamer want to play the game for an extended period of time?
 Are the mechanics deep and rewarding enough to practice and master? Are there things to explore, learn and discover?
 For this test, I'm not just looking on how long the actual game takes to complete, but also looking at what the game length **could** be if it were to be expended.
 		
-### Choose only one of the two test available
-Each have their different rules and rating priorities.
+### Choose only one of the two challenges available
+Each have their own rules and rating priorities.
 
 ## Game Developer - Specialized on Game Design and Level Design
 A project in this category will be rated based on those priority:
