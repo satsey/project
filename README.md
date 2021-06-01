@@ -19,7 +19,7 @@ You are strongly advised to make use of the KinematicBody script provided for an
 
 If you want to learn more about it, you can follow the doc: [Kinematic Body script Doc](https://github.com/gflores/CreateAGameChallenge/wiki)
 
-As mentionned, BaseCharacterController provides walking, jumping, and air control, but it doesn't mean they have to appear in the final game.
+As mentioned, BaseCharacterController provides walking, jumping, and air control, but it doesn't mean they have to appear in the final game.
 They are there as a starting point on how basic features can be done using KinematicBody, but feel free to change (or remove) them, or create new ones as you need.
 It's also fine to not add any new controls and just use those just a provided. You can still adjust the public variables in the editor.
 
