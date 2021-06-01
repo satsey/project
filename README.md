@@ -34,7 +34,7 @@ How good and "professional" does it look? Is it stylish, would people comment it
 Would it look good in a trailer? 
 Putting the gameplay game length aside, does it look like a 5-stars game?
 
-## Length
+## Length and Replayability
 What would make a gamer want to play the game for an extended period of time?
 Are the mechanics deep and rewarding enough to practice and master? Are there things to explore, learn and discover?
 For this test, I'm not just looking on how long the actual game takes to complete, but also looking at what the game length **could** be if it were to be expended.
