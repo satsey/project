@@ -51,11 +51,12 @@ A project in this category will be rated based on those priority:
 
 An applicant in this category is free to use any third party asset they wish. Any sources is OK.
 	
-	What I'm looking for:
-		A good concept that plays well, and that has potential.
-		The demo should make me feel that with more dev and production time it could become a real game that plays for 4-8hrs.
-		The polish level doesn't need to be high, just "OK" is enough. As long as it doesn't look "bad", it's fine.
-		Try to aim for atleast 8 minutes engaging gameplay.
+**What I'm looking for:**
+
+	A good concept that plays well, and that has potential.
+	The demo should make me feel that with more dev and production time it could become a real game that plays for 4-8hrs.
+	The polish level doesn't need to be high, just "OK" is enough. As long as it doesn't look "bad", it's fine.
+	Try to aim for atleast 8 minutes engaging gameplay.
 
 ## 2) Game Developer - Specialized on 3D asset creation and Polishing.
 A project in this category will be rated based on those priority:
@@ -67,11 +68,12 @@ A project in this category will be rated based on those priority:
 An applicant in this category must create all 3D assets by themselves.
 (It doesn't include animations, so feel free to use Mixamo or others if you want to)
 
-	What I'm looking for:
-		A demo that looks good.
-		It should look like a polished vertical slice, imagine if you were to make a trailer out of it.
-		The gameplay should just be decent, atleast not outright boring.
-		Try to aim for atleast 3 minutes engaging gameplay.
+**What I'm looking for:**
+
+	A demo that looks good.
+	It should look like a polished vertical slice, imagine if you were to make a trailer out of it.
+	The gameplay should just be decent, atleast not outright boring.
+	Try to aim for atleast 3 minutes engaging gameplay.
 
 
 
