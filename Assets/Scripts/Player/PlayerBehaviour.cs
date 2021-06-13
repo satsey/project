@@ -18,20 +18,27 @@ public class PlayerBehaviour : MonoBehaviour
     {
 
         //Get the first object hit by the ray
-       
+
         if (Input.GetKeyDown(KeyCode.A))
         {
             RaycastHit[] hit = Physics.RaycastAll(camera.gameObject.transform.position, camera.transform.forward, laserLength, layerMask);
 
-            foreach(var element in hit)
+            foreach (var element in hit)
             {
                 element.collider.gameObject.CompareTag("Ground");
                 Renderer renderer = element.collider.gameObject.GetComponent<Renderer>();
                 renderer.material.color = Color.red;
+
+                Tile tile = element.collider.gameObject.GetComponent<Tile>();
+                if (tile != null)
+                {
+                    tile.SpawnTower(TowerType.Laser);
+                }
+
                 //Destroy(element.collider.gameObject);
                 break;
             }
-            
+
         }
     }
 }
