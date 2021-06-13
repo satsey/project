@@ -6,4 +6,5 @@ public class Tile : MonoBehaviour
 {
 
     public int color;
+    public Vector3 tilePosition;
 }
