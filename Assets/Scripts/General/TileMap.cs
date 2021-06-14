@@ -13,20 +13,20 @@ public class TileMap : MonoBehaviour
 
     void Start()
     {
-        grid = new GameObject[mapsize, mapsize];
+        //grid = new GameObject[mapsize, mapsize];
 
-        for (int i = 0; i < mapsize; i++)
-        {
-            for (int j = 0; j < mapsize; j++)
-            {
-                Instantiate(Tile, new Vector3(-halfmapsize + i * 2, 0, -halfmapsize + j * 2), Quaternion.identity);
-            }
-        }
+        //for (int i = 0; i < mapsize; i++)
+        //{
+        //    for (int j = 0; j < mapsize; j++)
+        //    {
+        //        Instantiate(Tile, new Vector3(-halfmapsize + i * 2, 0, -halfmapsize + j * 2), Quaternion.identity);
+        //    }
+        //}
 
         // recalculate graph
         GridGraph graphToScan = AstarPath.active.data.gridGraph;
         AstarPath.active.Scan(graphToScan);
     }
 
-    private GameObject[,] grid;
+   // private GameObject[,] grid;
 }
