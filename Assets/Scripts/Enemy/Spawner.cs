@@ -11,21 +11,43 @@ public class Spawner : MonoBehaviour
     public Transform spawnlocation;
     public float spawnInterval = 3.5f;
 
+    public float health = 10.0f;
+    
     private float spawntime;
+
+    private LightingManager lightingManager;
     // Start is called before the first frame update
     void Start()
     {
         spawntime = spawnInterval;
+        lightingManager = gamemanager.GetComponent<LightingManager>();
     }
 
     // Update is called once per frame
     void Update()
     {
-        spawntime -= Time.deltaTime;
-        if (spawntime < 0.1f)
+
+        if (lightingManager.TimeOfDay < 6.0f || lightingManager.TimeOfDay > 18.0f)
         {
-            Instantiate(enemy, spawnlocation.position, Quaternion.identity);
-            spawntime = spawnInterval;
+            spawntime -= Time.deltaTime;
+            if (spawntime < 0.1f)
+            {
+                Instantiate(enemy, spawnlocation.position, Quaternion.identity);
+                spawntime = spawnInterval;
+            }
         }
     }
+
+
+    public void TakeDamage(float damage)
+    {
+        health -= damage;
+
+        if(health <= 0.0f)
+        {
+            Destroy(gameObject);
+        }
+    }
+
+
 }
